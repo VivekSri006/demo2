@@ -192,7 +192,7 @@
   }
 
   function updateSceneName(scene) {
-    sceneNameElement.innerHTML = ' KALPATARU VISTA NOIDA NORTH';
+    sceneNameElement.innerHTML = ' KALPATARU VISTA NOIDA NORTH BLOCK';
   }
 
   function updateSceneList(scene) {
